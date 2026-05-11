@@ -212,6 +212,10 @@ The objective is to build AI systems capable of:
 - interactive decision support
 
 ---
+## Live Demo
+
+https://home-energy-agent-assistant-eric-adjakossa.streamlit.app/
+---
 
 # Future Improvements
 
